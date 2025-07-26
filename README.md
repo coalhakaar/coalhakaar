@@ -1,16 +1,16 @@
-## Hi there 👋
+# About Me
+I'm a web developer. I haven't done anything web dev related in close to a year, so I'm horrible at it right now. Sometimes I make roblox games. 
 
-<!--
-**coalhakaar/coalhakaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm learning
+- C++
+- Rust
+- TypeScript
 
-Here are some ideas to get you started:
+# I know
+- Python
+- Ruby
+- Lua
+And I know how to walk.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![coalhakaar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coalhakaar&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![coalhakaar's Stats](https://github-readme-stats.vercel.app/api?username=coalhakaar&theme=dark&show_icons=true&hide_border=false&count_private=true)
