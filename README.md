@@ -6,7 +6,7 @@ I'm a web developer. I haven't done anything web dev related in close to a year,
 - Rust
 - TypeScript
 
-# I know
+## I know
 - Python
 - Ruby
 - Lua
