@@ -10,6 +10,7 @@ I'm a web developer. I haven't done anything web dev related in close to a year,
 - Python
 - Ruby
 - Lua
+- HTML/CSS
 </br>
 And I know how to walk.
 
