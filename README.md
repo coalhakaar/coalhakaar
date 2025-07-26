@@ -10,6 +10,7 @@ I'm a web developer. I haven't done anything web dev related in close to a year,
 - Python
 - Ruby
 - Lua
+</br>
 And I know how to walk.
 
 ![coalhakaar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coalhakaar&theme=dark&show_icons=true&hide_border=false&layout=compact)
