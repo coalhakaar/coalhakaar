@@ -1,5 +1,5 @@
 # About Me
-I'm a web developer. I haven't done anything web dev related in close to a year, so I'm horrible at it right now. Sometimes I make roblox games. 
+I'm primarily a web developer. I haven't done anything web dev related in close to a year, so I'm horrible at it right now. Sometimes I make roblox games, and sometimes I make "useless" apps
 
 ## I'm learning
 - C++
