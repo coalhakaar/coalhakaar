@@ -4,7 +4,7 @@ I'm a web developer. I haven't done anything web dev related in close to a year,
 ## I'm learning
 - C++
 - Rust
-- TypeScript
+- Swift
 
 ## I know
 - Python
